@@ -3,11 +3,11 @@ const __filename = import.meta.filename;
 process.env.TZ = 'Asia/Jakarta';
 
 // Pengaturan Bot disini Semua
-global.owner = ["62895331520602"]; // wajib di isi tidak boleh kosong
-global.mods = ["62895331520602"]; // wajib di isi tidak boleh kosong
-global.prems = ["62895331520602"]; // wajib di isi tidak boleh kosong
+global.owner = ["212697516526"]; // wajib di isi tidak boleh kosong
+global.mods = ["212697516526"]; // wajib di isi tidak boleh kosong
+global.prems = ["212697516526"]; // wajib di isi tidak boleh kosong
 global.nameowner = "Tio"; // wajib di isi tidak boleh kosong
-global.numberowner = "62895331520602"; // wajib di isi tidak boleh kosong
+global.numberowner = "212697516526"; // wajib di isi tidak boleh kosong
 global.mail = "support@tioprm.eu.org"; // wajib di isi tidak boleh kosong
 global.gc = "https://chat.whatsapp.com/I5RpePh2b5u37OyFjzCNTr"; // wajib di isi tidak boleh kosong
 global.instagram = "https://instagram.com/prm2.0"; // wajib di isi tidak boleh kosong
